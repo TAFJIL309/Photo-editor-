@@ -1,0 +1,6 @@
+{
+  "name": "AI Creative Studio",
+  "description": "Premium AI-powered Image-to-Image Editor and Photo Generator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
